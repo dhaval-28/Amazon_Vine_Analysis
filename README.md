@@ -41,7 +41,7 @@ We used PySpark to perform the ETL process to extract the dataset, transform the
 <img src = "https://github.com/dhaval-28/Amazon_Vine_Analysis/blob/main/Images/Del-2.png" /><br>
 </p>
 
-**        | Vine (Paid) | Non-Vine (unpaid) |**
+**        | Vine (Paid) | Non-Vine (unpaid) |** <br>
 | Attempt | Vine (Paid) | Non-Vine (unpaid) |
 | Attempt | Vine (Paid) | Non-Vine (unpaid) |
 | Attempt | Vine (Paid) | Non-Vine (unpaid) |
