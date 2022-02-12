@@ -42,9 +42,9 @@ We used PySpark to perform the ETL process to extract the dataset, transform the
 </p>
 
 **------------- | Vine (Paid) | Non-Vine (unpaid) |** <br>
-| Total Rating  | Vine (Paid) | Non-Vine (unpaid) |
-| 5 Star Rating | Vine (Paid) | Non-Vine (unpaid) |
-| % of 5 Star   | Vine (Paid) | Non-Vine (unpaid) |
+| Total Rating  | Vine (Paid) | Non-Vine (unpaid) | <br>
+| 5 Star Rating | Vine (Paid) | Non-Vine (unpaid) | <br>
+| % of 5 Star   | Vine (Paid) | Non-Vine (unpaid) | <br>
 
 ## Results
 
