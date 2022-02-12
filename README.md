@@ -1,6 +1,4 @@
 # Amazon_Vine_Analysis
-Amazon_Vine_Analysis
-
 
 ## Overview
 In this project, we have access to approximately 50 datasets. Each one contains reviews of a specific product, from clothing apparel to wireless products.  We picked Gift Cards datasets. 
