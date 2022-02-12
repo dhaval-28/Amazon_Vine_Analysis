@@ -42,16 +42,19 @@ We used PySpark to perform the ETL process to extract the dataset, transform the
 </p>
 * There are 149086 total reivews
 * There are 129709 5-star reviews
+
 <br>
 -----------------------------------------------------------------------------
 * There are total 0 vine (vine = Y) reviews
 * There are 0,Five-star vine (vine = Y) reviews
 * There are 0.0 % 5-star vine (vine = Y) reviews
+
 <br>
 -----------------------------------------------------------------------------
 * There are total 149086 non-vine (vine = N) reviews
 * There are 129709 5-star non-vine (vine = N) reviews
 * There are 87.0 % 5-star non-vine (vine = N) reviews
+
 <br>
 -----------------------------------------------------------------------------
 ## Results
