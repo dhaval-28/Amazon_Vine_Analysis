@@ -36,10 +36,8 @@ We used PySpark to perform the ETL process to extract the dataset, transform the
 ### Deliverable 2: Perform ETL on Amazon Product Reviews
 ![click here for : Amazon_Reviews_ETL.ipynb file](https://github.com/dhaval-28/Amazon_Vine_Analysis/blob/main/Vine_Review_Analysis.ipynb)
 
-* **5-star reviews for the two types of review (paid vs unpaid)** :  
-<p align="center">
-<img src = "https://github.com/dhaval-28/Amazon_Vine_Analysis/blob/main/Images/Del-2.png" /><br>
-</p>
+
+-----------------------------------------------------------------------------
 
 * There are 149086 total reivews
 * There are 129709 5-star reviews
