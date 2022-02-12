@@ -40,12 +40,17 @@ We used PySpark to perform the ETL process to extract the dataset, transform the
 <p align="center">
 <img src = "https://github.com/dhaval-28/Amazon_Vine_Analysis/blob/main/Images/Del-2.png" /><br>
 </p>
-
-**------------- | Vine (Paid) | Non-Vine (unpaid) |** <br>
-| Total Rating  | Vine (Paid) | Non-Vine (unpaid) | <br>
-| 5 Star Rating | Vine (Paid) | Non-Vine (unpaid) | <br>
-| % of 5 Star   | Vine (Paid) | Non-Vine (unpaid) | <br>
-
+There are 149086 total reivews
+There are 129709 5-star reviews
+-----------------------------------------------------------------------------
+There are total 0 vine (vine = Y) reviews
+There are 0,Five-star vine (vine = Y) reviews
+There are 0.0 % 5-star vine (vine = Y) reviews
+-----------------------------------------------------------------------------
+There are total 149086 non-vine (vine = N) reviews
+There are 129709 5-star non-vine (vine = N) reviews
+There are 87.0 % 5-star non-vine (vine = N) reviews
+-----------------------------------------------------------------------------
 ## Results
 
 ### State if there is any positivity bias for reviews in the Vine program
