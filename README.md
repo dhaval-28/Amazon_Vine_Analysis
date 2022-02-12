@@ -15,22 +15,22 @@ We used PySpark to perform the ETL process to extract the dataset, transform the
 ![click here for : Amazon_Reviews_ETL.ipynb file](https://github.com/dhaval-28/Amazon_Vine_Analysis/blob/main/Amazon_Reviews_ETL.ipynb)
 
 * **The customers_table DataFrame** :  
-<p align="center">
+<p align="left">
 <img src = "https://github.com/dhaval-28/Amazon_Vine_Analysis/blob/main/Images/Customer_Table_DF.png" /><br>
 </p>
 
 * **The products_table DataFrame** :  
-<p align="center">
+<p align="left">
 <img src = "https://github.com/dhaval-28/Amazon_Vine_Analysis/blob/main/Images/Products_Table_DF.png" /><br>
 </p>
 
 * **The review_id_table DataFrame** :  
-<p align="center">
+<p align="left">
 <img src = "https://github.com/dhaval-28/Amazon_Vine_Analysis/blob/main/Images/review_id_table_DF.png" /><br>
 </p>
 
 * **The vine_table DataFrame** :  
-<p align="center">
+<p align="left">
 <img src = "https://github.com/dhaval-28/Amazon_Vine_Analysis/blob/main/Images/vine_table_DF.png" /><br>
 </p>
 
